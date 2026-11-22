@@ -15,7 +15,7 @@ BakeAnythin provides an easy way to bake out multiple materials for game product
 
 ## Installation
 
-1. Download the latest .py file in the repo.
+1. Download the latest .py file in the repo and rename it to "bakeanythin.py" (excluding the quotation marks).
 2. Open Blender.
 3. Go to Edit Preferences Get Extensions Install from Disk (or whatever addon install window your Blender version uses).
 4. Select the downloaded Python file.
